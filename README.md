@@ -8,8 +8,7 @@ Curso Profesional de Docker
 - [Comandos de Docker](#comados-de-docker)
 ---
 # Docker
-- Docker es una plataforma de contenedorización que permite empaquetar aplicaciones y todas sus dependencias en un contenedor, asegurando que funcionen de manera consistente en cualquier entorno..
-- 
+- Docker es una plataforma de contenedorización que permite empaquetar aplicaciones y todas sus dependencias en un contenedor, asegurando que funcionen de manera consistente en cualquier entorno
 --- 
 # Caracteristicas Principales
 1. Características principales de Docker
@@ -27,6 +26,7 @@ Curso Profesional de Docker
     Docker Hub 🌍: Un repositorio donde se almacenan y comparten imágenes de Docker.
 
 # Comandos de Docker
+
 3. Comandos docker Descargamos la Imagen 
     ```bash 
     docker pull httpd
