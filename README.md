@@ -5,7 +5,7 @@ Curso Profesional de Docker
 ## Tabla de Contenidos
 - [Docker](#Docker)
 - [Caracteristicas Principales](#caracteristicas-principales)
-- [Comandos de Docker](#comados-de-docker)
+- [Comandos de Docker](#comandos-de-docker)
 ---
 # Docker
 - Docker es una plataforma de contenedorización que permite empaquetar aplicaciones y todas sus dependencias en un contenedor, asegurando que funcionen de manera consistente en cualquier entorno
